@@ -1,7 +1,7 @@
 # Hello
 
 ## About Me
-I'm a computer scientist with a keen interest in technology, especially in the field of Artificial Intelligence. I am passionate about learning and implementing my knowledge in real-world scenarios.
+I'm a scientist with a keen interest in technology, especially in the field of Artificial Intelligence. I am passionate about learning and implementing my knowledge in real-world scenarios.
 
 ## Skills
 - **Programming Languages**: Python, C++, Java
